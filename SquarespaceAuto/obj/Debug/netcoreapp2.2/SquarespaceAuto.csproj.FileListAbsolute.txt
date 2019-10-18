@@ -1,0 +1,17 @@
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.deps.json
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.dll
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.pdb
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.csproj.CoreCompileInputs.cache
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.AssemblyInfoInputs.cache
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.AssemblyInfo.cs
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.dll
+E:\projects\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.pdb
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.deps.json
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.dll
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\bin\Debug\netcoreapp2.2\SquarespaceAuto.pdb
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.csprojAssemblyReference.cache
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.csproj.CoreCompileInputs.cache
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.AssemblyInfoInputs.cache
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.AssemblyInfo.cs
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.dll
+I:\VideoProject\SquareSpaceAutomation\source\SquarespaceAuto\SquarespaceAuto\obj\Debug\netcoreapp2.2\SquarespaceAuto.pdb
